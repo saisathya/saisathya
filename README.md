@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello, World!
+
+Welcome to my GitHub profile. I recently graduated San Jose State University with a Bachelors Degree in Computer Science and a minor in Mathematics. 
 
 <!--
 **saisathya/saisathya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
