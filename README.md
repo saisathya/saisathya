@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-I just graduated San Jose State University with a bachelors in Computer Science and a minor in Mathematics. I'm actively searching for a job, so feel free. You can reach me [LinkedIn](https://www.linkedin.com/in/sai-sathyanantha-rajandiran/) to connect.
+I just graduated San Jose State University with a bachelors in Computer Science and a minor in Mathematics. I'm actively searching for a job, so feel free to reach me on [LinkedIn](https://www.linkedin.com/in/sai-sathyanantha-rajandiran/) to connect.
 <!--
 **saisathya/saisathya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
