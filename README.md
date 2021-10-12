@@ -6,8 +6,6 @@ I’m a software engineer based in Kuala Lumpur, Malaysia.
 
 I spent the last few years of my life obtaining my undergraduate degree in Computer Science and a minor in Mathematics at San José State University.
 
-In this site, I plan on documenting new things I’ve learnt, primarily in the field of computer science. The inspiration behind the name of this site comes from Poor Charlie’s Almanack.
-
 Feel free to reach out to me on LinkedIn or by e-mail.
 <!--
 **saisathya/saisathya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
